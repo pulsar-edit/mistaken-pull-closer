@@ -1,3 +1,5 @@
+# This repository has been archived under Pulsar due to no longer using Probot.
+
 # mistaken-pull-closer
 
 > a GitHub App built with [probot](https://github.com/probot/probot) that automatically closes pull requests that are commonly mistakes.
